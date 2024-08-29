@@ -6,7 +6,8 @@ Here is a demo for my project:
 
 https://drive.google.com/file/d/1iTKE-2fXSR9wumuESmJYMAZFyuAPvM8l/view?usp=sharing
 
-Tech:
+
+# Tech:
 
 Frontend: Next.js
 
@@ -15,6 +16,9 @@ Backend: Express.js framework
 Spotify API
 
 Axios.js library for communication between front end and Spotify API
+
+
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
