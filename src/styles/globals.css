@@ -31,3 +31,47 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.main-background {
+  background-image: url('../images/greenbackground.jpg');
+  background-size: cover;       /* Cover the entire element */
+  background-position: center;  /* Center the background image */
+  background-repeat: no-repeat; /* Prevent repeating of the background image */
+  height: 100vh;                /* Full viewport height */
+  width: 100vw;                 /* Full viewport width */
+  border-radius: 20px;          /* Adjust the radius to fit your needs */
+  display: flex;                /* Center content inside if needed */
+  flex-direction: column;       /* Stack children vertically */
+  align-items: center;          /* Center content horizontally */
+  justify-content: center;      /* Center content vertically */
+}
+
+.cover-background {
+  background-image: url('../images/posterbackground.jpg');
+  background-size: cover;       /* Cover the entire element */
+  background-position: center;  /* Center the background image */
+  background-repeat: no-repeat; /* Prevent repeating of the background image */
+  height: 80vh;                /* Full viewport height */
+  width: 80%;                   /* 80% viewport width */
+  border-radius: 20px;          /* Adjust the radius to fit your needs */
+  display: flex;                /* Center content inside if needed */
+  flex-direction: column;       /* Stack children vertically */
+  align-items: center;          /* Center content horizontally */
+  justify-content: center;      /* Center content vertically */
+  padding-bottom: 20px;         /* Add padding at the bottom */
+  position: relative;           /* Ensure the images can be positioned absolutely */
+  margin: 0 auto;               /* Center the container horizontally */
+}
+
+
+
+/* styles.css or Header.module.css */
+.storytunes-text {
+  color: black;                /* Set text color to black */
+  font-size: 4rem;         /* Equivalent to text-3xl in Tailwind */
+  font-weight: bold;           /* Set text to bold */
+  font-family: 'Brush Script MT', cursive; /* Use a cursive font */
+}
+
+
