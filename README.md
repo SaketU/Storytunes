@@ -1,3 +1,7 @@
+## Storytunes Web App
+
+Storytunes is a platform designed for Instagram users to effortlessly find the perfect soundtrack for their stories. By entering a theme or mood, users receive a song recommendation from Spotify that aligns with their chosen theme, enhancing their Instagram story experience.
+
 Here is a demo for my project:
 
 https://drive.google.com/file/d/1iTKE-2fXSR9wumuESmJYMAZFyuAPvM8l/view?usp=sharing
