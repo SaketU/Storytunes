@@ -9,8 +9,11 @@ https://drive.google.com/file/d/1iTKE-2fXSR9wumuESmJYMAZFyuAPvM8l/view?usp=shari
 Tech:
 
 Frontend: Next.js
+
 Backend: Express.js framework
+
 Spotify API
+
 Axios.js library for communication between front end and Spotify API
 
 
